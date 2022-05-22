@@ -17,7 +17,7 @@ In case you are unfamiliar with the files in this repository, here is a run down
 To edit the project, you first need to download CodeBlocks and then clone the repository into your local device. You can start editing by opening the Prototype_Elec_Cons_Calc.cbp file.
 
 ## How To Use The Program
-To use the program, simply open the bin folder and check out the Release folder. The Release folder should contain the .exe file to run the program and the two dependencies needed to run the program.
+To use the program, simply open the bin folder and download the Release (stable version) or Debug (unstable version) folder. Both of them should contain the .exe file needed to run the program as well a the two dependencies needed for the program to run.
 
 ## Acknowledgement
 This project was created with the help of my research groupmates who assisted in testing the program and in providing feedback for the improvement of the program or project.
