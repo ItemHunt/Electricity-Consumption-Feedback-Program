@@ -21,3 +21,7 @@ To use the program, simply open the bin folder and download the Release (stable 
 
 ## Acknowledgement
 This project was created with the help of my research groupmates who assisted in testing the program and in providing feedback for the improvement of the program or project.
+
+
+
+Copyright © 2022 ItemHunt
