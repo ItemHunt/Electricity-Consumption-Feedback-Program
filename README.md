@@ -5,13 +5,13 @@ Welcome, this is a repository for an electricity consumption calculator program 
 
 ## Repository Content Description
 In case you are unfamiliar with the files in this repository, here is a run down of each one:
-- **Bin folder:** It contains the release (stable) and debug (unstable) versions of the program. Both the debug and release folder contain the two dependencies needed to run the .exe file. This means that you can run the program no matter the folder you choose to download and use
-- **obj folder:** It contains the release (stable) and debug (unstable) object files of the program. These files were created by the compiler and were linked to the source file to create the .exe file.
-- **.gitignore:** Contains a list of all ignored files in the version control system
-- **Prototype_Elec_Cons_Calc.cbp:** CodeBlocks project file
-- **Prototype_Elec_Cons_Calc.layout:** CodeBlocks layout file or file that saves the last position you were in when you use the project file
-- **README.md:** Is the file that contains what you are reading right now
-- **main.cpp:** The C++ source code file
+- **Bin folder** - It contains the release (stable) and debug (unstable) versions of the program. Both the debug and release folder contain the two dependencies needed to run the .exe file. This means that you can run the program no matter the folder you choose to download and use
+- **obj folder** - It contains the release (stable) and debug (unstable) object files of the program. These files were created by the compiler and were linked to the source file to create the .exe file.
+- **.gitignore** - Contains a list of all ignored files in the version control system
+- **Prototype_Elec_Cons_Calc.cbp** - CodeBlocks project file
+- **Prototype_Elec_Cons_Calc.layout** - CodeBlocks layout file or file that saves the last position you were in when you use the project file
+- **README.md** - Is the file that contains what you are reading right now
+- **main.cpp** - The C++ source code file
 
 ## How To Edit The Project
 To edit the project, you first need to download CodeBlocks and then clone the repository into your local device. You can start editing by opening the Prototype_Elec_Cons_Calc.cbp file.

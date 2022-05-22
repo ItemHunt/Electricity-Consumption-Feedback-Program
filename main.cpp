@@ -44,10 +44,10 @@ int main()
         {0, 1200, 1},  //Microwave 8
         {0, 3400, 1},  //Dryer 9
         {0, 2250, 1},  //Washing Machine 10
-        {24, 200, 1},  //Refrigerator (new) 11
-        {0, 200, 1},   //Rice cooker (new) 12
-        {0, 1300, 1},  //Air fryer (new) 13
-        {0, 3, 1},      //Laptop Cooler (new) 14
+        {24, 200, 1},  //Refrigerator 11
+        {0, 200, 1},   //Rice cooker 12
+        {0, 1300, 1},  //Air fryer 13
+        {0, 3, 1},      //Laptop Cooler 14
         {0, 1500, 1},  //Electric kettle 15
         {0, 5, 1},     //Radio 16
         {0, 1100, 1},  //Toaster 16
