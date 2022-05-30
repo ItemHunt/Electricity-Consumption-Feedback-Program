@@ -20,7 +20,7 @@ To edit the project, you first need to download CodeBlocks and then clone the re
 To use the program, simply open the bin folder and download the Release (stable version) or Debug (unstable version) folder. Both of them should contain the .exe file needed to run the program as well a the two dependencies needed for the program to run.
 
 ## Acknowledgement
-This project was created with the help of my research groupmates who assisted in testing the program and in providing feedback for the improvement of the program or project.
+This project was created with the help of my research groupmates who assisted in testing the program and in providing feedback for the improvement of the program or project. One of them is SmokeyBlaze, and the other 4 people did not wish to have their names be publicized here.
 
 
 
